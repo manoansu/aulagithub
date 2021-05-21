@@ -34,3 +34,22 @@ equipa de trabalho para saber que es tu que esta salvar esse codigo. E executa e
 
 10 - git config --global user.email "seu email cadastrado no git" por ex: "manoansu@gmail.com" par poder aceder o git
 
+11 - para verificar se esta bem configurado digita:
+
+12 - git config --list
+
+13 -  git add .  ==> para salvar versão no ficheiro temporario de git 
+
+14 - git commit -m "criadas páginas index e vendas" ==> o git commit -m é para salvar os ficheiros no git,
+e a mensagem dentro das aspas é para indicar o que fizeste ou o q esta salvar no git
+
+15 - git log ==> vai listar as versões que foi salv no git.
+
+16 - assim que fazer algumas alterações no codigo que acima commitado é so ir no terminal de novo e digitar esses comandos:
+
+17 - git add .
+
+18 - git commit -m "Acrescentando valo das vendas"
+
+19 - git status ==> para ver o status de git no terminal..
+
