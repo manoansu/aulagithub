@@ -1,0 +1,36 @@
+
+Git ==> É um sistema de Versionamento para controlar versoes de algum projeto aou sistema.
+Ex: criar o trabalho com versões: v1,v2,v3,v4...
+
+Github ==> É um serviço online de hospedagem de projecto gerenciado pelo git
+
+serviços git sao: bitbucket, gitlab.com
+
+Link do git para download: https://git-scm.com/downloads ou pesquisa git scm no google.
+
+Procedimento e Comandos do git:
+
+1 - instala o git na maquina usando este link: https://git-scm.com/downloads
+
+2 - verifica se estiver instalado, entra em qualquer pasta e 
+com botão direito vais encontrar git bash here/aqui e clica ali vais abrir o DOS/CMD 
+ 
+3 - cria uma pasta onde tem que colocar o seu projecto
+ 
+4 - coloca o seu ficheiro programado que quer subir no git e vai subindo cada etapa do seu trabalho desenvolvido para o git.
+
+5 - vai na pasta com projetos criado e com botão direito clica no git bash here/aqui.
+
+6 - vai abrir o terminal do git, se é a primeira vez que vais subir aquele projecto digita:
+
+7 - git init  ==> para inicializar o repositorio vazio na pasta do projeto, 
+e vais ver um ficheiro git na mesma pasta, se não consiguir ver a pasta
+
+8 - Depois vamos  salvar o meu projeto no github, mas para salvar tem que se 
+identificar que es a pessoa que está salvar o projeto, isso ajuda o grupo ou 
+equipa de trabalho para saber que es tu que esta salvar esse codigo. E executa esse comando:
+
+9 - git config --global user.neme "seu nome" por ex: "Ansumane Mane". enter
+
+10 - git config --global user.email "seu email cadastrado no git" por ex: "manoansu@gmail.com" par poder aceder o git
+
